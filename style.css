@@ -1,0 +1,32 @@
+.nav-link {
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+  margin: 0 3rem;
+}
+
+#des {
+  border: 1px solid rgb(0, 0, 0);
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 17px;
+}
+
+td {
+  margin: 99px;
+  background-color: #999999;
+  border-radius: 10px;
+  width: 20rem;
+  text-align: center;
+  font-size: 17px;
+}
+
+@media (max-width: 600px) {
+  body {
+    background-color: red;
+  }
+}
